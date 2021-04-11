@@ -26,6 +26,14 @@ p{
     height: 550px;
     display:block;
     margin:auto;
-
  }
- 
+ }
+.imagen1:hover{
+  filter: grayscale(90%);
+}
+.imagen2:hover{
+  filter: blur(3px);
+}
+.imagen3:hover{
+  filter: opacity(.5);
+}
